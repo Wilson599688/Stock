@@ -10,4 +10,6 @@ plotly
 mplfinance
 shioaji
 pynacl
+matplotlib
+yfinance
 
