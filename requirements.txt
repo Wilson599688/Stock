@@ -12,4 +12,6 @@ shioaji
 pynacl
 matplotlib
 yfinance
+ta
+
 
