@@ -2,11 +2,12 @@
 
 numpy
 streamlit
-streamlit_webrtc
+streamlit-webrtc
 streamlit-nested-layout
-matplotlib
+pandas
 openpyxl
 plotly
 mplfinance
 shioaji
 pynacl
+
